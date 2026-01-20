@@ -1,8 +1,7 @@
 
-
 ### 👋 Hi, I'm Somnath!
 
-### 💻Software Developer • 👨‍💻CSE Student • Nerd🤓
+### 💻 Software Developer • 👨‍💻 CSE Student • Nerd 🤓
 
 
 
@@ -14,10 +13,10 @@
 
 ---
 
-### 🚀 What I Do(Really)
+### 🚀 What I Do (Really)
 
 * ☕ Write **Java & Python** that works… eventually.
-* 🔨 Break my own code, then fix it like a responsible adult (Wonder am I really one ).
+* 🔨 Break my own code, then fix it like a responsible adult (Wonder am I really one).
 * 🧗 Learn **DSA**, backend, and system fundamentals one bug at a time.
 * 🏗️ Build projects that start simple and somehow become *"slightly overengineered."*
 
@@ -37,7 +36,17 @@
 <br>
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=postgresql&logoColor=white)
 > *Java for the jobs, Python for the kickkk.*
+
+<br>
+
+**Frameworks & Styling (The Structure)**
+<br>
+![Spring Boot](https://img.shields.io/badge/-Spring_Boot-333333?style=flat&logo=spring-boot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/-Spring_Security-333333?style=flat&logo=spring-security&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-333333?style=flat&logo=tailwindcss&logoColor=white)
+> *Making things secure and pretty (sometimes).*
 
 <br>
 
@@ -51,17 +60,30 @@
 
 <br>
 
-**Backend & Tools (The "Plumbing")**
+**Tools, DevOps & APIs (The "Plumbing")**
 <br>
-![Spring Boot](https://img.shields.io/badge/-Spring_Boot-333333?style=flat&logo=spring-boot&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker&logoColor=white)
-![MySQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-333333?style=flat&logo=github-actions&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-333333?style=flat&logo=redis&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman&logoColor=white)
+![Chrome](https://img.shields.io/badge/-Chrome_API-333333?style=flat&logo=google-chrome&logoColor=white)
+> *Git is just a time machine for when I mess up.*
+
 <br>
 
+**Knowledge Base (Core Concepts)**
+<br>
+![DSA](https://img.shields.io/badge/-DSA-black?style=flat)
+![System Design](https://img.shields.io/badge/-System_Design-black?style=flat)
+![OOPs](https://img.shields.io/badge/-OOPs-black?style=flat)
+![DBMS](https://img.shields.io/badge/-DBMS-black?style=flat)
+> *The stuff that actually matters in interviews.*
+
+<br>
 
 ---
 
 <div align="center">
-  <i>"“Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live”."</i> 
+  <i>"Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live."</i> 🔪
 </div>
